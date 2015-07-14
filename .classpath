@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/antlr-4.5-complete.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-annotations-2.6.0-20150515.173619-5.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-databind-2.6.0-rc5-20150711.034635-3.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="lib/jackson-core-2.6.0-rc5-20150711.033207-1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
